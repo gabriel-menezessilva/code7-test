@@ -1,0 +1,19 @@
+1 - c) Todo cristal é corpo sólido
+
+2 - e) 48
+
+3 - 
+
+4 - 54326
+
+5 - b) Trinta é 30 e não 50.Tamanho: 3
+
+6 - e) <audio>
+
+7 - c) extensão do CSS que permite o desenvolvimento de regras, variáveis e mixins.
+
+8 - false
+
+9 - a) A diretiva *ngFor é responsável por realizar loops de interação entre tags e propriedades HTML.
+
+10 - e) Executar comandos no início do ciclo de vida do componente.
